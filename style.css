@@ -1,0 +1,190 @@
+body{
+    position: relative;
+    background: rgb(233,86,28);
+background: linear-gradient(90deg, rgba(233,86,28,1) 0%, rgba(255,255,255,0.9475140397956058) 100%);
+padding:0px;
+margin:0px
+
+
+}
+
+
+
+
+
+.main-header-section{
+    text-align: center;
+    background-color: #fbe5d6;
+    padding: 70px;
+    
+}
+.navbar{
+    background-color:#fbe5d6;
+    
+}
+.jumbotron-btn{
+    margin-bottom: 20px;
+}
+.btn-primary{
+    background: rgb(233,86,28);
+background: linear-gradient(90deg, rgba(233,86,28,1) 0%, rgba(255,255,255,0.9475140397956058) 100%);
+}
+.lotty-player{
+    width: 200px;
+     height: 200px;
+     margin: auto;
+     margin-bottom: 10px;
+     /* border: 2px solid #cf8350; */
+     /* border-radius: 100px; */
+     background-color: #fbe5d6;
+
+     
+}
+  .card-img-top{
+      height: 200px;
+      border-radius: 30px;
+  } 
+  .products-btn{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+  }
+  .product{
+      /* padding: 200px; */
+  }
+  .card-prize{
+      color: green;
+  }
+  .product-header{
+      display: flex;
+      justify-content: space-between;
+  }
+  .card{
+      width: 106%;
+  }
+  .checked{
+      color: orange;
+  }
+  .iframe{
+    background: rgb(233,86,28);
+    background: linear-gradient(90deg, rgba(233,86,28,1) 0%, rgba(255,255,255,0.9475140397956058) 100%);
+      border-radius: 50px;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+ 
+  
+.read{
+
+    font-size: 10px;
+    color: black;
+    border:0px;
+
+}
+.appname{
+    
+    background: rgb(233,86,28);
+    background: linear-gradient(90deg, rgba(233,86,28,1) 0%, rgba(255,255,255,0.9475140397956058) 100%);
+    display: inline-block;
+    border-radius: 20px;
+    width: 250px;
+    font-weight: 400;
+    color: #fbe5d6;
+
+}
+#spin{
+    /* text-align: center; */
+    display: block;
+    align-items: center;
+    margin: auto;
+}
+    .navbar{
+        position: fixed;
+        z-index: 1000;
+        width: 100%;
+    
+    }
+    .cartlogo{
+        height: 20px;
+        width: 20px;
+    }
+     .about-us{
+         text-align: center;
+         background-color: #fbe5d6;
+         padding: 0px 20px;  
+         border-radius: 20px;
+      
+     }
+     .about-us-heading{
+         margin: 20px 0;
+     }
+     .contact-us{
+         text-align: center;
+         margin-top: 30px;
+         display: block;
+         background-color: #fbe5d6;
+         border-radius: 20px;
+     }
+     .slider{
+         /* align-items: center; */
+         /* justify-content: center; */
+         /* width: 700PX;
+         height: 500PX;
+         width:  0% ,50%; */
+         padding: 0PX 150PX ;
+         
+         /* width: 100%; */
+         
+         /* height: 1000px; */
+         /* width: 1500PX; */
+     }
+     .image{
+         width: 100%;
+         height: 300PX;
+         /* max-width: 600px; */
+         /* z-index: 2000; */
+         /* max-height: 1000PX;
+         max-width: 1000PX;
+     } */
+    }
+    .model-head{
+        padding: 0px 10px;
+    }
+    
+    .sin-up{
+        display: none;
+        position: fixed;
+        height: 400px;
+        width: 400px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 10px;
+        
+        padding-top: 10px;
+        margin: 50px auto 0px auto;
+        z-index: 100;
+        top: 10%;
+        left: 35%;
+    }
+    .sin-in{
+        display: none;
+        position: fixed;
+        height: 200px;
+        width: 300px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 10px;
+        
+        padding-top: 10px;
+        margin: 50px auto 0px auto;
+        z-index: 100;
+        top: 30%;
+        left: 40%;
+    }
+    .btnClose{
+        margin-left:90%;
+    }
+    .btnClosesinin{
+        margin-left:90%;
+    }
